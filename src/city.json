@@ -1,0 +1,50 @@
+[
+    {
+        "id":"1",
+        "name":"Hyderabad"
+    },
+    {
+        "id":"2",
+        "name":"Guntur"
+    },
+    {
+        "id":"3",
+        "name":"Visakhapatnam"
+    },
+    {
+        "id":"4",
+        "name":"Warangal"
+    },
+    {
+        "id":"5",
+        "name":"Chitoor"
+    },
+    {
+        "id":"6",
+        "name":"Anantapoor"
+    },
+    {
+        "id":"7",
+        "name":"Kadapa"
+    },
+    {
+        "id":"8",
+        "name":"Kurnool"
+    },
+    {
+        "id":"9",
+        "name":"Srikakulam"
+    },
+    {
+        "id":"10",
+        "name":"East Godavari"
+    },
+    {
+        "id":"11",
+        "name":"West Godavari"
+    },
+    {
+        "id":"12",
+        "name":"Krishna"
+    }
+]
